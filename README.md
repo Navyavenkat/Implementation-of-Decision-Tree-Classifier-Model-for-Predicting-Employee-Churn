@@ -20,8 +20,7 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 Developed by: V.NAVYA
 RegisterNumber: 212221230069 
 */
-```
-```
+
 import pandas as pd
 data=pd.read_csv("Employee.csv")
 data.head()
@@ -56,37 +55,37 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-```
+
 HEAD
 
-![GITHUB](1A.png)
+![GITHUB LOGO](1A.png)
 
 INFO
-![GITHUB](9.png)
+![GITHUB LOGO](9.png)
 
 ISNULL
 
-![GITHUB](6.png)
+![GITHUB LOGO](6.png)
 
 HAED USING LABEL ENCODER
 
-![GITHUB](5.png)
+![GITHUB LOGO](5.png)
 
 ACCURACY WITH ENTROPY
 
-![GITHUB](4.png)
+![GITHUB LOGO](4.png)
 
 PREDICTION WITH ENTROPY
 
-![GITHUB](3.png)
+![GITHUB LOGO](3.png)
 
 ACCURACY WITHOUT ENTROPY
 
-![GITHUB](2.png)
+![GITHUB LOGO](2.png)
 
 PREDICTION WITHOUT ENTROPY
 
-![GITHUB](1.png)
+![GITHUB LOGO](1.png)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
